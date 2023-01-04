@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "title": "Learn JavaScript",
+      "isComplete": false,
+      "id": 1
+    },
+    {
+      "title": "Learn Typescript",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "title": "Learn Front End",
+      "isComplete": true,
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "title": "Leran React",
+      "isComplete": true,
+      "id": 1
+    },
+    {
+      "title": "Learn CSS",
+      "isComplete": true,
+      "id": 2
+    }
+  ]
+}
